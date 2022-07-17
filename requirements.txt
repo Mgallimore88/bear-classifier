@@ -1,5 +1,5 @@
-# https://download.pytorch.org/whl/cpu/torch-1.6.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
-# https://download.pytorch.org/whl/cpu/torchvision-0.7.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
+https://download.pytorch.org/whl/cpu/torchvision-0.11.2+cpu-cp39-cp39-linux_x86_64.whl
+https://download.pytorch.org/whl/cpu/torch-1.7.1+cpu-cp39-cp39-linux_x86_64.whl
 https://download.pytorch.org/whl/torchrec_cpu-0.1.1-py39-none-any.whl
 fastai
 voila
